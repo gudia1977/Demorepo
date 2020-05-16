@@ -1,3 +1,4 @@
 4th file local
 making change remote
 make change
+merge local
