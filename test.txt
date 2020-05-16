@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 first file
 change from local
+=======
+first file 
+>>>>>>> 0e5d51e3211f51ba484aa011562b85e51ff52485
