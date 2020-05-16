@@ -2,3 +2,4 @@
 making change remote
 make change
 merge local
+merge remote
